@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39135044761",
+    "project_id": "anavis-a2730",
+    "storage_bucket": "anavis-a2730.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39135044761:android:0a520b70d409932ec4c408",
+        "android_client_info": {
+          "package_name": "com.example.anavis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8Qg_67EIyRvA52576G-0r8xWhJeHcks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39135044761:android:d8e946e6ea92e1f8c4c408",
+        "android_client_info": {
+          "package_name": "com.yashodhan.anavis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8Qg_67EIyRvA52576G-0r8xWhJeHcks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
